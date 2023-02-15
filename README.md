@@ -1,5 +1,5 @@
 # LATIHAN1DPBO2023
-Saya Rasyid Andriansyah NIM 2101963 mengerjakan Latihan Praktikum mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Rasyid Andriansyah NIM 2101963 mengerjakan Latihan 1 Praktikum mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 Compile C++:
 g++ main.cpp -o tes.exe
@@ -46,11 +46,9 @@ Alur Program:
 
 ![5  perintah invalid dan keluar program](https://user-images.githubusercontent.com/100756215/218927763-57db300a-a253-452e-a19f-cae0683c7388.png)
 
+Bahasa PHP
 
-
-
-
-
+![1  tambah,ubah,hapus](https://user-images.githubusercontent.com/100756215/219036855-a8d81c4f-ae6c-4c25-88df-1ed19ad77de2.png)
 
 
 

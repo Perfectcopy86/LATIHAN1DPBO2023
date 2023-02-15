@@ -16,6 +16,8 @@ Aktifkan xampp
 lalu ketik di browser
 localhost/(nama folder)
 
+Code yang saya buat menggunakan 1 kelas yaitu Mahasiswa, sedangkan untuk bahasa PHP mempunyai 2 kelas yaitu Mahasiswa dan DaftarMahasiswa
+
 Alur Program:
 - Buat class lalu diisi atribut baik private maupun public, contohnya NIM, nama, prodi, dan fakultas. Jangan lupa konstruktornya
 - Buat setter dan getter

@@ -28,3 +28,32 @@ Alur Program:
 - lalu ada fitur untuk menampilkan data
 - Terakhir, jika user memilih menu yg tidak disediakan maka akan invalid, lalu jika user memilih keluar maka akan berhenti programnya
 - Mungkin selebihnya untuk penjelasan desain program ada dalam setiap file.
+
+1.Tampilan menu
+![1  tampilan menu](https://user-images.githubusercontent.com/100756215/218927457-06ad5f46-382e-43e7-b648-268a21889fb7.png)
+
+2. Tambah data dan tampil data
+![2  tambah data dan tampil](https://user-images.githubusercontent.com/100756215/218927564-9a2778b3-69b3-431e-9bda-5a60385bea07.png)
+
+3. Ubah data
+
+![3  ubah data](https://user-images.githubusercontent.com/100756215/218927620-12ca6402-1182-45ba-a230-03cb183e0e1a.png)
+
+4. Hapus data
+![4  hapus data](https://user-images.githubusercontent.com/100756215/218927656-80e82b86-bb3a-4cba-9dc7-c6baf99e8731.png)
+
+5. Perintah invalid dan keluar program
+
+![5  perintah invalid dan keluar program](https://user-images.githubusercontent.com/100756215/218927763-57db300a-a253-452e-a19f-cae0683c7388.png)
+
+
+
+
+
+
+
+
+
+
+
+
